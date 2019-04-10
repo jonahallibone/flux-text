@@ -4,8 +4,13 @@
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
+    "react-bootstrap-typeahead": "^4.0.0-alpha.9",
     "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8"
+    "react-html-parser": "^2.0.2",
+    "react-redux": "^7.0.1",
+    "react-scripts": "2.1.8",
+    "redux": "^4.0.1",
+    "redux-starter-kit": "^0.4.3"
   },
   "scripts": {
     "start": "react-scripts start",
